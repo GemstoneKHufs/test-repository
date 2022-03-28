@@ -1,4 +1,4 @@
-# 두 정수를 입력 받는다.
+# 공백을 기준으로 두 정수를 입력 받는다.
 M, N =map(int(input().split())
 
 sieve = [False for i in range(N + 1)]
