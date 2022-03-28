@@ -1,2 +1,2 @@
-# test-repository
-pull-request 연습
+## test-repository
+오픈소스SW 실습 repo
