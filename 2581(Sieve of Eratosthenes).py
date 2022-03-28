@@ -1,6 +1,5 @@
 # 두 정수를 입력 받는다.
-M = int(input())
-N = int(input())
+M, N =map(int(input().split())
 
 sieve = [False for i in range(N + 1)]
 
